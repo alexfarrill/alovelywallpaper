@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Your Podcast Title</title>
+        <link>Your Podcast Website</link>
+        <language>en-us</language>
+        <itunes:subtitle>Your Podcast Subtitle</itunes:subtitle>
+        <itunes:author>Your Author Name</itunes:author>
+        <itunes:summary>Your Podcast Summary</itunes:summary>
+        <description>Your Podcast Description</description>
+        <itunes:owner>
+            <itunes:name>Your Name</itunes:name>
+            <itunes:email>Your Email</itunes:email>
+        </itunes:owner>
+        <itunes:image href="URL of Your Podcast Artwork" />
+        <itunes:category text="Your Main Category">
+            <itunes:category text="Your Subcategory"/>
+        </itunes:category>
+        <item>
+            <title>Episode Title</title>
+            <itunes:author>Your Author Name</itunes:author>
+            <itunes:subtitle>Episode Subtitle</itunes:subtitle>
+            <itunes:summary>Episode Summary</itunes:summary>
+            <itunes:image href="URL of Episode-specific Artwork (if any)" />
+            <enclosure url="URL of Your Episode MP3 File" length="File Size in Bytes" type="audio/mpeg"/>
+            <guid>Episode Unique Identifier (e.g., URL)</guid>
+            <pubDate>Episode Publication Date, e.g., Wed, 15 Jun 2022 19:00:00 GMT</pubDate>
+            <itunes:duration>Episode Duration in HH:MM:SS</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <!-- Repeat <item> section for each episode -->
+    </channel>
+</rss>
+
