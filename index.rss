@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Your Podcast Title</title>
-        <link>Your Podcast Website</link>
+        <title>A Lovely Wallpaper</title>
         <language>en-us</language>
-        <itunes:subtitle>Your Podcast Subtitle</itunes:subtitle>
-        <itunes:author>Your Author Name</itunes:author>
-        <itunes:summary>Your Podcast Summary</itunes:summary>
-        <description>Your Podcast Description</description>
+        <itunes:subtitle>Guided Memorizations with Poetry</itunes:subtitle>
+        <itunes:author>Abby Walthausen</itunes:author>
+        <itunes:summary>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem each episode. Proposing memory work as a challenge to the ephemeral language of our moment, host Abby Walthausen delivers an exploration of each new poem in two parts. In the first act, she chats with a guest about poetry and memory. In the second act, she presents the episode’s poem, as read by her guest, in a special format designed to work as a roadmap to learning it by heart.</itunes:summary>
+        <description>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem each episode. Proposing memory work as a challenge to the ephemeral language of our moment, host Abby Walthausen delivers an exploration of each new poem in two parts. In the first act, she chats with a guest about poetry and memory. In the second act, she presents the episode’s poem, as read by her guest, in a special format designed to work as a roadmap to learning it by heart.</description>
         <itunes:owner>
-            <itunes:name>Your Name</itunes:name>
-            <itunes:email>Your Email</itunes:email>
+            <itunes:name>Alex Farrill</itunes:name>
+            <itunes:email>alex.farrill@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="URL of Your Podcast Artwork" />
-        <itunes:category text="Your Main Category">
-            <itunes:category text="Your Subcategory"/>
+        <itunes:image href="https://alexfarrill.github.io/alovelywallpaper/alovelywallpaper-cover.png" />
+        <itunes:category text="Literature">
+            <itunes:category text="Poetry"/>
         </itunes:category>
         <item>
-            <title>Episode Title</title>
-            <itunes:author>Your Author Name</itunes:author>
-            <itunes:subtitle>Episode Subtitle</itunes:subtitle>
-            <itunes:summary>Episode Summary</itunes:summary>
-            <itunes:image href="URL of Episode-specific Artwork (if any)" />
+            <title>Piping Down the Valleys Wild with Susie Boyt</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Susie Boyt</itunes:subtitle>
+            <itunes:summary>In this episode, Abby Walthausen interviews Susie Boyt, author of several books, among them the novel Loved and Missed and the memoir My Judy Garland Life. Together, they present the poem “Piping Down the Valleys Wild,” by William Blake.</itunes:summary>
             <enclosure url="URL of Your Episode MP3 File" length="File Size in Bytes" type="audio/mpeg"/>
             <guid>Episode Unique Identifier (e.g., URL)</guid>
             <pubDate>Episode Publication Date, e.g., Wed, 15 Jun 2022 19:00:00 GMT</pubDate>
             <itunes:duration>Episode Duration in HH:MM:SS</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
-        <!-- Repeat <item> section for each episode -->
     </channel>
 </rss>
-
