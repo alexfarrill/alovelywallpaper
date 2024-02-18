@@ -12,8 +12,8 @@
             <itunes:email>alex.farrill@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="https://alexfarrill.github.io/alovelywallpaper/alovelywallpaper-cover.png" />
-        <itunes:category text="Literature">
-            <itunes:category text="Poetry"/>
+        <itunes:category text="Arts">
+            <itunes:category text="Literature"/>
         </itunes:category>
         <item>
             <title>"Piping Down the Valleys Wild" with Susie Boyt</title>
