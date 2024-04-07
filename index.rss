@@ -4,16 +4,16 @@
         <title>A Lovely Wallpaper</title>
         <language>en-us</language>
         <itunes:subtitle>Guided Memorizations with Poetry</itunes:subtitle>
-        <itunes:author>Abby</itunes:author>
+        <itunes:author>Abby Walthausen</itunes:author>
         <itunes:summary>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem each episode.
             Proposing memory work as a challenge to the ephemeral language of our moment, host Abby delivers
             an exploration of each new poem in two parts. In the first act, she chats with a guest about poetry and
-            memory. In the second act, she presents the episode’s poem, as read by her guest, in a special format
+            memory. In the second act, she presents the episode's poem, as read by her guest, in a special format
             designed to work as a roadmap to learning it by heart.</itunes:summary>
         <description>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem each episode. Proposing
             memory work as a challenge to the ephemeral language of our moment, host Abby delivers an
             exploration of each new poem in two parts. In the first act, she chats with a guest about poetry and memory.
-            In the second act, she presents the episode’s poem, as read by her guest, in a special format designed to
+            In the second act, she presents the episode's poem, as read by her guest, in a special format designed to
             work as a roadmap to learning it by heart.</description>
         <itunes:owner>
             <itunes:name>Alex Farrill</itunes:name>
@@ -25,7 +25,7 @@
         </itunes:category>
         <item>
             <title>"Piping Down the Valleys Wild" with Susie Boyt</title>
-            <itunes:author>Abby</itunes:author>
+            <itunes:author>Abby Walthausen</itunes:author>
             <itunes:subtitle>Interview with Susie Boyt</itunes:subtitle>
             <itunes:summary>
                 <![CDATA[In this episode, Abby interviews Susie Boyt, author of several books, among them the novel Loved and Missed and the memoir My Judy Garland Life. Together, they present the poem "Piping Down the Valleys Wild," by William Blake.<br />Recitation begins at 25:10<br /><br />Piping Down the Valleys Wild<br />William Blake<br /><br />Piping down the valleys wild,<br />   Piping songs of pleasant glee,<br />On a cloud I saw a child,<br />   And he laughing said to me:—<br /><br />"Pipe a song about a lamb:"<br />   So I piped with merry cheer.<br />"Piper, pipe that song again:"<br />   So I piped: he wept to hear.<br /><br />"Drop thy pipe, thy happy pipe,<br />   Sing thy songs of happy cheer!"<br />So I sang the same again,<br />   While he wept with joy to hear.<br /><br />"Piper, sit thee down and write<br />   In a book, that all may read—"<br />So he vanished from my sight;<br />   And I plucked a hollow reed,<br /><br />And I made a rural pen,<br />   And I stained the water clear,<br />And I wrote my happy songs<br />   Every child may joy to hear.]]>
@@ -43,7 +43,7 @@
         </item>
         <item>
             <title>"Casabianca" with Catherine Robson</title>
-            <itunes:author>Abby</itunes:author>
+            <itunes:author>Abby Walthausen</itunes:author>
             <itunes:subtitle>Interview with Catherine Robson</itunes:subtitle>
             <itunes:summary>
                 <![CDATA[In this episode, Abby interviews Catherine Robson, professor at NYU and author of
@@ -65,6 +65,23 @@
             <itunes:duration>00:48:46</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
-
+        <item>
+            <title>"One Art" with Jos Kley</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Jos Kley</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews Jos Kley, former singer of the long running Dutch punk band The Ex. Together, they present the poem "One Art" by Elizabeth Bishop. Recitation begins at 35:08.<br /><br />One Art<br />The art of losing isn't hard to master;<br />so many things seem filled with the intent<br />to be lost that their loss is no disaster.<br /><br />Lose something every day. Accept the fluster<br />of lost door keys, the hour badly spent.<br />The art of losing isn't hard to master.<br /><br />Then practice losing farther, losing faster:<br />places, and names, and where it was you meant<br />to travel. None of these will bring disaster.<br /><br />I lost my mother's watch. And look! my last, or<br />next-to-last, of three loved houses went.<br />The art of losing isn't hard to master.<br /><br />I lost two cities, lovely ones. And, vaster,<br />some realms I owned, two rivers, a continent.<br />I miss them, but it wasn't a disaster.<br /><br />—Even losing you (the joking voice, a gesture<br />I love) I shan't have lied. It's evident<br />the art of losing's not too hard to master<br />though it may look like (Write it!) like disaster.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews Jos Kley, former singer of the long running Dutch punk band The Ex. Together, they present the poem "One Art" by Elizabeth Bishop. Recitation begins at 35:08.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP03-A_Lovely_Wallpaper-Jos-Kley.mp3"
+                length="133787684" type="audio/mpeg" />
+            <guid>ALWP-EP003</guid>
+            <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>00:55:44</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
