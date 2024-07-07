@@ -96,10 +96,28 @@
             </description>
             <enclosure
                 url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP04-A_Lovely_Wallpaper-Susan-Angelo.mp3"
-                length="84288512" type="audio/x-wav" />
+                length="84288512" type="audio/mpeg" />
             <guid>ALWP-EP004</guid>
             <pubDate>Mon, 29 May 2024 00:00:00 GMT</pubDate>
             <itunes:duration>00:35:07</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title>"On the Beach at Fontana" with Peter Orner</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Peter Orner</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby Walthausen interviews Peter Orner, fiction writer and professor of English and Creative writing at Dartmouth College, for a special Bloomsday episode. For memory, they offer up James Joyce's "On the Beach at Fontana," a poem from a tiny chapbook called Pomes Penyeach, which offers a window into Joyce's family life in Trieste during the period when he was writing his masterpiece Ulysses.<br />Recitation begins at 35:20<br /><br />On the Beach at Fontana<br />Wind whines and whines the shingle,<br />The crazy pierstakes groan;<br />A senile sea numbers each single<br />Slimesilvered stone.<br /><br />From whining wind and colder<br />Grey sea I wrap him warm<br />And touch his trembling fineboned shoulder<br />And boyish arm.<br /><br />Around us fear, descending<br />Darkness of fear above<br />And in my heart how deep unending<br />Ache of love!]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby Walthausen interviews Peter Orner, fiction writer and professor of English and Creative writing at Dartmouth College, for a special Bloomsday episode. For memory, they offer up James Joyce's "On the Beach at Fontana," a poem from a tiny chapbook called Pomes Penyeach, which offers a window into Joyce's family life in Trieste during the period when he was writing his masterpiece Ulysses.<br />Recitation begins at 35:20<br /><br />On the Beach at Fontana<br />Wind whines and whines the shingle,<br />The crazy pierstakes groan;<br />A senile sea numbers each single<br />Slimesilvered stone.<br /><br />From whining wind and colder<br />Grey sea I wrap him warm<br />And touch his trembling fineboned shoulder<br />And boyish arm.<br /><br />Around us fear, descending<br />Darkness of fear above<br />And in my heart how deep unending<br />Ache of love!]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP05-A_Lovely_Wallpaper-Peter-Orner-On-The-Beach-At-Fontana.mp3"
+                length="105552704" type="audio/mpeg" />
+            <guid>ALWP-EP005</guid>
+            <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>00:43:58</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
     </channel>
