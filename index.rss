@@ -120,5 +120,24 @@
             <itunes:duration>00:43:58</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+        <item>
+            <title>"Sonnet 66" with Ishion Hutchinson</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Ishion Hutchinson</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby Walthausen interviews Ishion Hutchinson, author of the poetry collections *School of Instructions: a Poem*, *House of Lords and Commons*, and *Far District*. Born in Port Antonio, Jamaica, he is the W.E.B. Du Bois Professor in the Humanities at Cornell University. He reads William Shakespeare’s Sonnet 66. Recitation begins at 43:20.<br /><br />Sonnet 66<br />Tired with all these, for restful death I cry,<br />As, to behold desert a beggar born,<br />And needy nothing trimm'd in jollity,<br />And purest faith unhappily forsworn,<br />And gilded honour shamefully misplaced,<br />And maiden virtue rudely strumpeted,<br />And right perfection wrongfully disgraced,<br />And strength by limping sway disabled,<br />And art made tongue-tied by authority,<br />And folly, doctor-like, controlling skill,<br />And simple truth miscalled simplicity,<br />And captive good attending captain ill:<br />Tired with all these, from these would I be gone,<br />Save that, to die, I leave my love alone.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby Walthausen interviews Ishion Hutchinson, author of the poetry collections *School of Instructions: a Poem*, *House of Lords and Commons*, and *Far District*. Born in Port Antonio, Jamaica, he is the W.E.B. Du Bois Professor in the Humanities at Cornell University. He reads William Shakespeare’s Sonnet 66. Recitation begins at 43:20.<br /><br />Sonnet 66<br />Tired with all these, for restful death I cry,<br />As, to behold desert a beggar born,<br />And needy nothing trimm'd in jollity,<br />And purest faith unhappily forsworn,<br />And gilded honour shamefully misplaced,<br />And maiden virtue rudely strumpeted,<br />And right perfection wrongfully disgraced,<br />And strength by limping sway disabled,<br />And art made tongue-tied by authority,<br />And folly, doctor-like, controlling skill,<br />And simple truth miscalled simplicity,<br />And captive good attending captain ill:<br />Tired with all these, from these would I be gone,<br />Save that, to die, I leave my love alone.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP06-A_Lovely_Wallpaper-Ishion-Hutchinson.mp3"
+                length="137598431" type="audio/mpeg" />
+            <guid>ALWP-EP006</guid>
+            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>00:56:15</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
