@@ -65,6 +65,7 @@
             <itunes:duration>00:48:46</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
         <item>
             <title>"One Art" with Jos Kley</title>
             <itunes:author>Abby Walthausen</itunes:author>
@@ -73,7 +74,7 @@
                 <![CDATA[In this episode, Abby interviews Jos Kley, former singer of the long running Dutch punk band The Ex. Together, they present the poem "One Art" by Elizabeth Bishop. Recitation begins at 35:08.<br /><br />One Art<br />The art of losing isn't hard to master;<br />so many things seem filled with the intent<br />to be lost that their loss is no disaster.<br /><br />Lose something every day. Accept the fluster<br />of lost door keys, the hour badly spent.<br />The art of losing isn't hard to master.<br /><br />Then practice losing farther, losing faster:<br />places, and names, and where it was you meant<br />to travel. None of these will bring disaster.<br /><br />I lost my mother's watch. And look! my last, or<br />next-to-last, of three loved houses went.<br />The art of losing isn't hard to master.<br /><br />I lost two cities, lovely ones. And, vaster,<br />some realms I owned, two rivers, a continent.<br />I miss them, but it wasn't a disaster.<br /><br />—Even losing you (the joking voice, a gesture<br />I love) I shan't have lied. It's evident<br />the art of losing's not too hard to master<br />though it may look like (Write it!) like disaster.]]>
             </itunes:summary>
             <description>
-                <![CDATA[In this episode, Abby interviews Jos Kley, former singer of the long running Dutch punk band The Ex. Together, they present the poem "One Art" by Elizabeth Bishop. Recitation begins at 35:08.]]>
+                <![CDATA[In this episode, Abby interviews Jos Kley, former singer of the long running Dutch punk band The Ex. Together, they present the poem "One Art" by Elizabeth Bishop. Recitation begins at 35:08.<br /><br />One Art<br />The art of losing isn't hard to master;<br />so many things seem filled with the intent<br />to be lost that their loss is no disaster.<br /><br />Lose something every day. Accept the fluster<br />of lost door keys, the hour badly spent.<br />The art of losing isn't hard to master.<br /><br />Then practice losing farther, losing faster:<br />places, and names, and where it was you meant<br />to travel. None of these will bring disaster.<br /><br />I lost my mother's watch. And look! my last, or<br />next-to-last, of three loved houses went.<br />The art of losing isn't hard to master.<br /><br />I lost two cities, lovely ones. And, vaster,<br />some realms I owned, two rivers, a continent.<br />I miss them, but it wasn't a disaster.<br /><br />—Even losing you (the joking voice, a gesture<br />I love) I shan't have lied. It's evident<br />the art of losing's not too hard to master<br />though it may look like (Write it!) like disaster.]]>
             </description>
             <enclosure
                 url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP03-A_Lovely_Wallpaper-Jos-Kley.mp3"
@@ -141,14 +142,33 @@
         </item>
 
         <item>
+            <title>"The Book of Difficult Fruit" with Kate Lebo</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Kate Lebo</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby Walthausen interviews Kate Lebo, author of *Pie School* and *Pie and Whiskey*, about the essays and recipes in *The Book of Difficult Fruit: Arguments for the Tart, Tender, and Unruly*. For memory, Lebo presents both a short rule of thumb for pie crust and Robert Frost's "The Rose Family." Recitation begins at 32:50.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby Walthausen interviews Kate Lebo, author of *Pie School* and *Pie and Whiskey*, about the essays and recipes in *The Book of Difficult Fruit: Arguments for the Tart, Tender, and Unruly*. For memory, Lebo presents both a short rule of thumb for pie crust and Robert Frost's "The Rose Family." Recitation begins at 32:50.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP07-The_Book_of_Difficult_Fruit-Kate_Lebo.mp3"
+                length="35750362" type="audio/mpeg" />
+            <guid>ALWP-EP007</guid>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>00:37:13</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+
+        <item>
             <title>"Requiem for a Friend" with Marie Darrieussecq</title>
             <itunes:author>Abby Walthausen</itunes:author>
             <itunes:subtitle>Interview with Marie Darrieussecq</itunes:subtitle>
             <itunes:summary>
-                <![CDATA[Guest Marie Darrieussecq, author of more than 20 novels, discusses two of her non-fiction books Sleepless: A Memoir of Insomnia and Being Here is Everything: The Life of Paula Modersohn-Becker. She reads an excerpt of Rainier Maria Rilke's “Requiem for a Friend.” Recitation begins at 28:31.<br /><br />Rainier Maria Rilke: from “Requiem for a Friend”<br /><br />And fruits: I will buy fruits; and in their sweetness<br />that country's earth and sky will live again.<br />For that is what you understood: ripe fruits.<br />You set them before the canvas, in white bowls,<br />and weighed out each one's fullness with your colors.<br />Women too, you saw, were fruits; and children, moulded<br />from inside, into the shapes of their existence.<br />And at last, you saw yourself as a fruit, you stepped<br />out of your clothes and brought your naked body<br />before the mirror, you let yourself inside<br />down to your gaze; which stayed in front, immense,<br /><br />and didn't say, <i>I am that;</i> no: <i>This is.</i>]]>
+                <![CDATA[Guest Marie Darrieussecq, author of more than 20 novels, discusses two of her non-fiction books *Sleepless: A Memoir of Insomnia* and *Being Here is Everything: The Life of Paula Modersohn-Becker*. She reads an excerpt of Rainier Maria Rilke's “Requiem for a Friend.” Recitation begins at 28:31.<br /><br />Rainier Maria Rilke: from “Requiem for a Friend”<br /><br />And fruits: I will buy fruits; and in their sweetness<br />that country's earth and sky will live again.<br />For that is what you understood: ripe fruits.<br />You set them before the canvas, in white bowls,<br />and weighed out each one's fullness with your colors.<br />Women too, you saw, were fruits; and children, moulded<br />from inside, into the shapes of their existence.<br />And at last, you saw yourself as a fruit, you stepped<br />out of your clothes and brought your naked body<br />before the mirror, you let yourself inside<br />down to your gaze; which stayed in front, immense,<br />and didn't say, <i>I am that;</i> no: <i>This is.</i>]]>
             </itunes:summary>
             <description>
-                <![CDATA[Guest Marie Darrieussecq, author of more than 20 novels, discusses two of her non-fiction books Sleepless: A Memoir of Insomnia and Being Here is Everything: The Life of Paula Modersohn-Becker. She reads an excerpt of Rainier Maria Rilke's “Requiem for a Friend.” Recitation begins at 28:31.]]>
+                <![CDATA[Guest Marie Darrieussecq, author of more than 20 novels, discusses two of her non-fiction books *Sleepless: A Memoir of Insomnia* and *Being Here is Everything: The Life of Paula Modersohn-Becker*. She reads an excerpt of Rainier Maria Rilke's “Requiem for a Friend.” Recitation begins at 28:31.<br /><br />Rainier Maria Rilke: from “Requiem for a Friend”<br /><br />And fruits: I will buy fruits; and in their sweetness<br />that country's earth and sky will live again.<br />For that is what you understood: ripe fruits.<br />You set them before the canvas, in white bowls,<br />and weighed out each one's fullness with your colors.<br />Women too, you saw, were fruits; and children, moulded<br />from inside, into the shapes of their existence.<br />And at last, you saw yourself as a fruit, you stepped<br />out of your clothes and brought your naked body<br />before the mirror, you let yourself inside<br />down to your gaze; which stayed in front, immense,<br />and didn't say, <i>I am that;</i> no: <i>This is.</i>]]>
             </description>
             <enclosure
                 url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP08-A_Lovely_Wallpaper-Marie-Darrieussecq.mp3"
@@ -158,6 +178,8 @@
             <itunes:duration>00:39:40</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+
 
     </channel>
 </rss>
