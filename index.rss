@@ -178,5 +178,24 @@
             <itunes:duration>00:39:40</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+        <item>
+            <title>"What Am I After All" with Andrew Tonkovich</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Andrew Tonkovich</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews Andrew Tonkovich, writer, editor of the journals The Santa Monica Review and Citric Acid, and host of the KPFK radio program "Bibliocracy," about a new exhibition he mounted on the art and activism of friend and mentor Peter Carr. The show “Peter Carr: Artist for Survival” is at Cerritos College Art Gallery until December 14th. Together, they present the poem "What Am I After All" by Walt Whitman. Recitation begins at 40:34.<br /><br />What Am I After All<br />Walt Whitman<br /><br />What am I after all but a child, pleas'd with the sound of my own name?<br />Repeating it over and over;<br />I stand apart to hear—it never tires me.<br /><br />To you your name also;<br />Did you think there was nothing but two or three<br />Pronunciations in the sound of your name?]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews Andrew Tonkovich, writer, editor of the journals The Santa Monica Review and Citric Acid, and host of the KPFK radio program "Bibliocracy," about a new exhibition he mounted on the art and activism of friend and mentor Peter Carr. The show “Peter Carr: Artist for Survival” is at Cerritos College Art Gallery until December 14th. Together, they present the poem "What Am I After All" by Walt Whitman. Recitation begins at 40:34.<br /><br />What Am I After All<br />Walt Whitman<br /><br />What am I after all but a child, pleas'd with the sound of my own name?<br />Repeating it over and over;<br />I stand apart to hear—it never tires me.<br /><br />To you your name also;<br />Did you think there was nothing but two or three<br />Pronunciations in the sound of your name?]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP09-A_Lovely_Wallpaper-Andrew-Tonkovich.mp3"
+                length="44401138" type="audio/mpeg" />
+            <guid>ALWP-EP009</guid>
+            <pubDate>Tue, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>00:46:13</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
