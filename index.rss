@@ -197,5 +197,24 @@
             <itunes:duration>00:46:13</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+        <item>
+            <title>"An Eagle for an Emperor" with Talon Knight and Terri Casey</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Talon Knight and Terri Casey</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews Talon Knight aka Robert Shallow, about falconry, owls, and the SoCal Renaissance Faire. Terri Casey, director of the Queen’s Court, joins in to read “An Eagle for an Emperor” by Dame Juliana Berners. Recitation begins at 24:06.<br /><br />An Eagle for an Emperor<br />Dame Juliana Berners<br /><br />An Eagle for an Emperor,<br />a Gyrfalcon for a King,<br />a Peregrine for a Prince,<br />a Saker for a Knight,<br />a Merlin for a Lady,<br />a Goshawk for a Yeoman,<br />a Sparrowhawk for a Priest,<br />a Musket for a Holy water Clerk,<br />a Kestrel for a Knave.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews Talon Knight aka Robert Shallow, about falconry, owls, and the SoCal Renaissance Faire. Terri Casey, director of the Queen’s Court, joins in to read “An Eagle for an Emperor” by Dame Juliana Berners. Recitation begins at 24:06.<br /><br />An Eagle for an Emperor<br />Dame Juliana Berners<br /><br />An Eagle for an Emperor,<br />a Gyrfalcon for a King,<br />a Peregrine for a Prince,<br />a Saker for a Knight,<br />a Merlin for a Lady,<br />a Goshawk for a Yeoman,<br />a Sparrowhawk for a Priest,<br />a Musket for a Holy water Clerk,<br />a Kestrel for a Knave.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP10-A_Lovely_Wallpaper-Talon_Knight-Terri_Casey.mp3"
+                length="29528961" type="audio/mpeg" />
+            <guid>ALWP-EP010</guid>
+            <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>00:30:43</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
