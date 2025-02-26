@@ -216,5 +216,24 @@
             <itunes:duration>00:30:43</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+        <item>
+            <title>"There is a Zone whose even Years" with Lee Ann Brown</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Lee Ann Brown</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews Lee Ann Brown, poet and founding editrix of Tender Buttons, about running a small press for 36 years, having Bernadette Mayer as a mentor, setting poems to music, and her own poetry book *In the Laurels Caught*. Together, they present Dickinson’s poem 1056, "There is a Zone whose even Years."<br />Recitation begins at 48:25<br /><br />1056, "There is a Zone whose even Years"<br />Emily Dickinson<br /><br />There is a Zone whose even Years<br />   No Solstice interrupt --<br />Whose Sun constructs perpetual Noon<br />   Whose perfect Seasons wait --<br /><br />Whose Summer set in Summer, till<br />   The Centuries of June<br />And Centuries of August cease<br />   And Consciousness -- is Noon.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews Lee Ann Brown, poet and founding editrix of Tender Buttons, about running a small press for 36 years, having Bernadette Mayer as a mentor, setting poems to music, and her own poetry book *In the Laurels Caught*. Together, they present Dickinson’s poem 1056, "There is a Zone whose even Years."<br />Recitation begins at 48:25<br /><br />1056, "There is a Zone whose even Years"<br />Emily Dickinson<br /><br />There is a Zone whose even Years<br />   No Solstice interrupt --<br />Whose Sun constructs perpetual Noon<br />   Whose perfect Seasons wait --<br /><br />Whose Summer set in Summer, till<br />   The Centuries of June<br />And Centuries of August cease<br />   And Consciousness -- is Noon.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP11-A_Lovely_Wallpaper-Leeann-Brown.mp3"
+                length="52567878" type="audio/mpeg" />
+            <guid>ALWP-EP011</guid>
+            <pubDate>Mon, 25 Feb 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>00:54:42</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
