@@ -235,5 +235,24 @@
             <itunes:duration>00:54:42</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+        <item>
+            <title>"Zone" with Lucy Sante</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Lucy Sante</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews writer Lucy Sante about recent books *Nineteen Reservoirs* and *I Heard Her Call My Name*. Together, they present an excerpt of the poem "Zone" by Guillaume Apollinaire.<br />Recitation begins at 45:07<br /><br />from "Zone"<br />Guillaume Apollinaire<br /><br />Now you walk in Paris alone in a crowd<br /><br />Herds of buses drive past mooing loud<br /><br />Your throat is gripped with love’s pain<br /><br />As if you should never be loved again<br /><br />If you lived in the past you’d enter a monastery<br /><br />You’re ashamed to catch yourself saying a prayer<br /><br />You jeer at yourself and your laughter crackles like hellfire<br /><br />The background of your life is gilded by the sparks from your laughter<br /><br />It’s like paintings hung in a dark museum<br /><br />Sometimes you step up close to see them]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews writer Lucy Sante about recent books *Nineteen Reservoirs* and *I Heard Her Call My Name*. Together, they present an excerpt of the poem "Zone" by Guillaume Apollinaire.<br />Recitation begins at 45:07<br /><br />from "Zone"<br />Guillaume Apollinaire<br /><br />Now you walk in Paris alone in a crowd<br /><br />Herds of buses drive past mooing loud<br /><br />Your throat is gripped with love’s pain<br /><br />As if you should never be loved again<br /><br />If you lived in the past you’d enter a monastery<br /><br />You’re ashamed to catch yourself saying a prayer<br /><br />You jeer at yourself and your laughter crackles like hellfire<br /><br />The background of your life is gilded by the sparks from your laughter<br /><br />It’s like paintings hung in a dark museum<br /><br />Sometimes you step up close to see them]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP12-A-Lovely-Wallpaper-Lucy-Sante.mp3"
+                length="51231945" type="audio/mpeg" />
+            <guid>ALWP-EP012</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>00:53:21</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
