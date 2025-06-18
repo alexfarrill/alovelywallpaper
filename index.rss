@@ -254,5 +254,23 @@
             <itunes:duration>00:53:21</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+        <item>
+            <title>"The Pity of Love" with Mary Lattimore</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Mary Lattimore</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews harpist and composer Mary Lattimore about her most recent album Goodbye, Hotel Arkada, her musical collaborations, and her instrument in all its epic visceral and metaphorical power. Together, they present “The Pity of Love” by William Butler Yeats.<br />Recitation begins at 34:38<br /><br />The Pity of Love<br />William Butler Yeats<br /><br />A pity beyond all telling<br />Is hid in the heart of love:<br />The folk who are buying and selling,<br />The clouds on their journey above,<br />The cold wet winds ever blowing,<br />And the shadowy hazel grove <br /><br />Where mouse-grey waters are flowing,<br /><br />Threaten the head that I love.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews harpist and composer Mary Lattimore about her most recent album Goodbye, Hotel Arkada, her musical collaborations, and her instrument in all its epic visceral and metaphorical power. Together, they present “The Pity of Love” by William Butler Yeats.<br />Recitation begins at 34:38<br /><br />The Pity of Love<br />William Butler Yeats<br /><br />A pity beyond all telling<br />Is hid in the heart of love:<br />The folk who are buying and selling,<br />The clouds on their journey above,<br />The cold wet winds ever blowing,<br />And the shadowy hazel grove <br /><br />Where mouse-grey waters are flowing,<br /><br />Threaten the head that I love.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP13-A_Lovely_Wallpaper-Mary_Lattimore.mp3"
+                length="41148948" type="audio/mpeg" />
+            <guid>ALWP-EP013</guid>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>00:42:51</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
