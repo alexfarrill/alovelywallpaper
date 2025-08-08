@@ -5,21 +5,30 @@
         <language>en-us</language>
         <itunes:subtitle>Guided Memorizations with Poetry</itunes:subtitle>
         <itunes:author>Abby Walthausen</itunes:author>
-        <itunes:summary>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem each episode.
-            Proposing memory work as a challenge to the ephemeral language of our moment, host Abby delivers
-            an exploration of each new poem in two parts. In the first act, she chats with a guest about poetry and
-            memory. In the second act, she presents the episode's poem, as read by her guest, in a special format
+        <itunes:summary>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem
+            each episode.
+            Proposing memory work as a challenge to the ephemeral language of our moment, host Abby
+            delivers
+            an exploration of each new poem in two parts. In the first act, she chats with a guest
+            about poetry and
+            memory. In the second act, she presents the episode's poem, as read by her guest, in a
+            special format
             designed to work as a roadmap to learning it by heart.</itunes:summary>
-        <description>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem each episode. Proposing
-            memory work as a challenge to the ephemeral language of our moment, host Abby delivers an
-            exploration of each new poem in two parts. In the first act, she chats with a guest about poetry and memory.
-            In the second act, she presents the episode's poem, as read by her guest, in a special format designed to
+        <description>"A Lovely Wallpaper" offers up guided memorizations, featuring a new poem each
+            episode. Proposing
+            memory work as a challenge to the ephemeral language of our moment, host Abby delivers
+            an
+            exploration of each new poem in two parts. In the first act, she chats with a guest
+            about poetry and memory.
+            In the second act, she presents the episode's poem, as read by her guest, in a special
+            format designed to
             work as a roadmap to learning it by heart.</description>
         <itunes:owner>
             <itunes:name>Alex Farrill</itunes:name>
             <itunes:email>alex.farrill@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://alexfarrill.github.io/alovelywallpaper/alovelywallpaper-cover.png" />
+        <itunes:image
+            href="https://alexfarrill.github.io/alovelywallpaper/alovelywallpaper-cover.png" />
         <itunes:category text="Arts">
             <itunes:category text="Literature" />
         </itunes:category>
@@ -270,6 +279,25 @@
             <guid>ALWP-EP013</guid>
             <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
             <itunes:duration>00:42:51</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+
+        <item>
+            <title>"Mushrooms" with James Oliver</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with James Oliver</itunes:subtitle>
+            <itunes:summary>
+    <![CDATA[In this episode, Abby interviews radical mycologist James Oliver about mushrooms and his work healing post-fire sites with mycelium at The Center for Applied Ecological Remediation (CAER). Together, they present the poem "Mushrooms," by Sylvia Plath.<br />Recitation begins at 47:22<br /><br />Mushrooms<br />Sylvia Plath<br /><br />Overnight, very<br />Whitely, discreetly,<br />Very quietly<br />Our toes, our noses<br />Take hold on the loam,<br />Acquire the air.<br />Nobody sees us,<br />Stops us, betrays us;<br />The small grains make room.<br />Soft fists insist on<br />Heaving the needles,<br />The leafy bedding,<br />Even the paving.<br />Our hammers, our rams,<br />Earless and eyeless,<br />Perfectly voiceless,<br />Widen the crannies,<br />Shoulder through holes. We<br />Diet on water,<br />On crumbs of shadow,<br />Bland-mannered, asking<br />Little or nothing.<br />So many of us!<br />So many of us!<br />We are shelves, we are<br />Tables, we are meek,<br />We are edible,<br />Nudgers and shovers<br />In spite of ourselves.<br />Our kind multiplies:<br />We shall by morning<br />Inherit the earth.<br />Our foot's in the door.]]>
+  </itunes:summary>
+            <description>
+    <![CDATA[In this episode, Abby interviews radical mycologist James Oliver about mushrooms and his work healing post-fire sites with mycelium at The Center for Applied Ecological Remediation (CAER). Together, they present the poem "Mushrooms," by Sylvia Plath.<br />Recitation begins at 47:22<br /><br />Mushrooms<br />Sylvia Plath<br /><br />Overnight, very<br />Whitely, discreetly,<br />Very quietly<br />Our toes, our noses<br />Take hold on the loam,<br />Acquire the air.<br />Nobody sees us,<br />Stops us, betrays us;<br />The small grains make room.<br />Soft fists insist on<br />Heaving the needles,<br />The leafy bedding,<br />Even the paving.<br />Our hammers, our rams,<br />Earless and eyeless,<br />Perfectly voiceless,<br />Widen the crannies,<br />Shoulder through holes. We<br />Diet on water,<br />On crumbs of shadow,<br />Bland-mannered, asking<br />Little or nothing.<br />So many of us!<br />So many of us!<br />We are shelves, we are<br />Tables, we are meek,<br />We are edible,<br />Nudgers and shovers<br />In spite of ourselves.<br />Our kind multiplies:<br />We shall by morning<br />Inherit the earth.<br />Our foot's in the door.]]>
+  </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP14-A_Lovely_Wallpaper-James_Oliver.mp3"
+                length="57935417" type="audio/mpeg" />
+            <guid>ALWP-EP014</guid>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>01:00:20</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
     </channel>
