@@ -300,5 +300,24 @@
             <itunes:duration>01:00:20</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+        <item>
+            <title>"The Garden" with Marie Warsh</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Marie Warsh</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews art historian Marie Warsh about her book Central Park's Adventure-Style Playgrounds, about growing up surrounded by poetry and art on the Lower East side, and about her work to revive the legacies of unsung female artists. Together, they present an excerpt of “The Garden” by Bernadette Mayer, Marie's mother.<br />Recitation begins at 45:50<br /><br />from "The Garden" by Bernadette Mayer<br /><br />If all our eyes had the clarity of apples<br />In a world as altered<br />As if by the wood betony<br />And all kinds of basil were the only riders of the land<br />It would be good to be together<br />Both under and above the ground<br />To be sane as the madwort,<br />Ripe as corn, safe as sage,<br />Various as dusty miller and hens & chickens,<br />In politics as kindly fierce and dragonlike as tarragon,<br />Revolutionary as the lily.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews art historian Marie Warsh about her book Central Park's Adventure-Style Playgrounds, about growing up surrounded by poetry and art on the Lower East side, and about her work to revive the legacies of unsung female artists. Together, they present an excerpt of “The Garden” by Bernadette Mayer, Marie's mother.<br />Recitation begins at 45:50<br /><br />from "The Garden" by Bernadette Mayer<br /><br />If all our eyes had the clarity of apples<br />In a world as altered<br />As if by the wood betony<br />And all kinds of basil were the only riders of the land<br />It would be good to be together<br />Both under and above the ground<br />To be sane as the madwort,<br />Ripe as corn, safe as sage,<br />Various as dusty miller and hens & chickens,<br />In politics as kindly fierce and dragonlike as tarragon,<br />Revolutionary as the lily.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP15-A_Lovely_Wallpaper-Marie_Warsh.mp3"
+                length="51073807" type="audio/mpeg" />
+            <guid>ALWP-EP015</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>00:53:12</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 </rss>
