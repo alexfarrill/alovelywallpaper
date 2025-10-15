@@ -319,5 +319,24 @@
             <itunes:duration>00:53:12</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+        <item>
+            <title>Ghost Story from William Maxwell’s "The Château" — with Christine Schutt</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Special October episode (guest reader: Christine Schutt)</itunes:subtitle>
+            <itunes:summary><![CDATA[This special October episode features a ghost story from William Maxwell’s novel <i>The Château</i>. Set in a harsh, old-fashioned classroom where children recite their lessons, its haunting force is a shapeshifting memory double—squarely in the “A Lovely Wallpaper” wheelhouse. Guest reader is fiction writer Christine Schutt, author of <i>Pure Hollywood</i>, <i>Prosperous Friends</i>, <i>All Souls</i>, and more. No poem, no interview—just understated, literary thrills and chills.]]></itunes:summary>
+            <description><![CDATA[This special October episode features a ghost story from William Maxwell’s novel <i>The Château</i>. It’s set in a harsh, old-fashioned classroom where kids recite their lessons, and its haunting force is a shapeshifting memory double—very much in our “A Lovely Wallpaper” wheelhouse. 
+          
+          Guest reader: Christine Schutt, author of <i>Pure Hollywood</i>, <i>Prosperous Friends</i>, <i>All Souls</i>, and several more.
+          
+          No poem, no interview this time—just understated, literary thrills and chills!]]></description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP16-A_Lovely_Wallpaper-Christine_Schutt.mp3"
+                length="18484693" type="audio/mpeg" />
+            <guid>ALWP-EP016</guid>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>00:19:15</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
+
 </rss>
