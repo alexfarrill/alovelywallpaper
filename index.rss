@@ -337,6 +337,24 @@
             <itunes:duration>00:19:15</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+        <item>
+            <title>"Try to Praise the Mutilated World" with Selma Asotić</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Selma Asotić</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[In this episode, Abby interviews poet Selma Asotić about her English language debut Say Fire, a beautiful book about families, language, and trauma in post-war Sarajevo. Together, they present "Let Us Praise the Mutilated World" by Adam Zagajewski.<br />Recitation begins 1:05:10<br /><br />Try to Praise the Mutilated World<br /><br />Pl Audio<br />By Adam Zagajewski<br />Translated By Clare Cavanagh<br /><br />Remember June's long days,<br />and wild strawberries, drops of rosé wine.<br />The nettles that methodically overgrow<br />the abandoned homesteads of exiles.<br />You must praise the mutilated world.<br />You watched the stylish yachts and ships;<br />one of them had a long trip ahead of it,<br />while salty oblivion awaited others.<br />You've seen the refugees going nowhere,<br />you've heard the executioners sing joyfully.<br />You should praise the mutilated world.<br />Remember the moments when we were together<br />in a white room and the curtain fluttered.<br />Return in thought to the concert where music flared.<br />You gathered acorns in the park in autumn<br />and leaves eddied over the earth's scars.<br />Praise the mutilated world<br />and the gray feather a thrush lost,<br />and the gentle light that strays and vanishes<br />and returns.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[In this episode, Abby interviews poet Selma Asotić about her English language debut Say Fire, a beautiful book about families, language, and trauma in post-war Sarajevo. Together, they present "Let Us Praise the Mutilated World" by Adam Zagajewski.<br />Recitation begins 1:05:10<br /><br />Try to Praise the Mutilated World<br /><br />Pl Audio<br />By Adam Zagajewski<br />Translated By Clare Cavanagh<br /><br />Remember June's long days,<br />and wild strawberries, drops of rosé wine.<br />The nettles that methodically overgrow<br />the abandoned homesteads of exiles.<br />You must praise the mutilated world.<br />You watched the stylish yachts and ships;<br />one of them had a long trip ahead of it,<br />while salty oblivion awaited others.<br />You've seen the refugees going nowhere,<br />you've heard the executioners sing joyfully.<br />You should praise the mutilated world.<br />Remember the moments when we were together<br />in a white room and the curtain fluttered.<br />Return in thought to the concert where music flared.<br />You gathered acorns in the park in autumn<br />and leaves eddied over the earth's scars.<br />Praise the mutilated world<br />and the gray feather a thrush lost,<br />and the gentle light that strays and vanishes<br />and returns.]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP17-A_Lovely_Wallpaper-Selma_Asotic.mp3"
+                length="76355740" type="audio/mpeg" />
+            <guid>ALWP-EP017</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>01:19:32</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
     </channel>
 
 </rss>
