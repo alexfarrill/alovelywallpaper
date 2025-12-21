@@ -355,6 +355,32 @@
             <itunes:duration>01:19:32</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
+
+        <item>
+            <title>Episode 18: "A Nocturnal upon St. Lucy's Day" with Robert Harrison</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:summary>
+              <![CDATA[
+          In this episode, Abby interviews Robert Harrison, professor of Italian and French Literature at Stanford University, about darkness, light, the winter solstice, and his long running radio program "Entitled Opinions (about Life and Literature)." Together they present "A Nocturnal upon St. Lucys' Day" by John Donne.<br />
+          Recitation begins at 36:21.
+              ]]>
+            </itunes:summary>
+            <description>
+              <![CDATA[
+          In this episode, Abby interviews Robert Harrison, professor of Italian and French Literature at Stanford University, about darkness, light, the winter solstice, and his long running radio program "Entitled Opinions (about Life and Literature)." Together they present "A Nocturnal upon St. Lucys' Day" by John Donne.<br />
+          Recitation begins at 36:21.
+              ]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP18-A_Lovely_Wallpaper-Robert_Harrison.mp3"
+                length="75267724"
+                type="audio/mpeg" />
+            <guid>ALWP-EP018</guid>
+            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
+            <itunes:duration>00:52:14</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+
     </channel>
 
 </rss>
