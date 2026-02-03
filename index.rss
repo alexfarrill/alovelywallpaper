@@ -27,8 +27,7 @@
             <itunes:name>Alex Farrill</itunes:name>
             <itunes:email>alex.farrill@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image
-            href="https://alexfarrill.github.io/alovelywallpaper/alovelywallpaper-cover.png" />
+        <itunes:image href="https://alexfarrill.github.io/alovelywallpaper/alovelywallpaper-cover.png" />
         <itunes:category text="Arts">
             <itunes:category text="Literature" />
         </itunes:category>
@@ -287,11 +286,11 @@
             <itunes:author>Abby Walthausen</itunes:author>
             <itunes:subtitle>Interview with James Oliver</itunes:subtitle>
             <itunes:summary>
-    <![CDATA[In this episode, Abby interviews radical mycologist James Oliver about mushrooms and his work healing post-fire sites with mycelium at The Center for Applied Ecological Remediation (CAER). Together, they present the poem "Mushrooms," by Sylvia Plath.<br />Recitation begins at 47:22<br /><br />Mushrooms<br />Sylvia Plath<br /><br />Overnight, very<br />Whitely, discreetly,<br />Very quietly<br />Our toes, our noses<br />Take hold on the loam,<br />Acquire the air.<br />Nobody sees us,<br />Stops us, betrays us;<br />The small grains make room.<br />Soft fists insist on<br />Heaving the needles,<br />The leafy bedding,<br />Even the paving.<br />Our hammers, our rams,<br />Earless and eyeless,<br />Perfectly voiceless,<br />Widen the crannies,<br />Shoulder through holes. We<br />Diet on water,<br />On crumbs of shadow,<br />Bland-mannered, asking<br />Little or nothing.<br />So many of us!<br />So many of us!<br />We are shelves, we are<br />Tables, we are meek,<br />We are edible,<br />Nudgers and shovers<br />In spite of ourselves.<br />Our kind multiplies:<br />We shall by morning<br />Inherit the earth.<br />Our foot's in the door.]]>
-  </itunes:summary>
+                <![CDATA[In this episode, Abby interviews radical mycologist James Oliver about mushrooms and his work healing post-fire sites with mycelium at The Center for Applied Ecological Remediation (CAER). Together, they present the poem "Mushrooms," by Sylvia Plath.<br />Recitation begins at 47:22<br /><br />Mushrooms<br />Sylvia Plath<br /><br />Overnight, very<br />Whitely, discreetly,<br />Very quietly<br />Our toes, our noses<br />Take hold on the loam,<br />Acquire the air.<br />Nobody sees us,<br />Stops us, betrays us;<br />The small grains make room.<br />Soft fists insist on<br />Heaving the needles,<br />The leafy bedding,<br />Even the paving.<br />Our hammers, our rams,<br />Earless and eyeless,<br />Perfectly voiceless,<br />Widen the crannies,<br />Shoulder through holes. We<br />Diet on water,<br />On crumbs of shadow,<br />Bland-mannered, asking<br />Little or nothing.<br />So many of us!<br />So many of us!<br />We are shelves, we are<br />Tables, we are meek,<br />We are edible,<br />Nudgers and shovers<br />In spite of ourselves.<br />Our kind multiplies:<br />We shall by morning<br />Inherit the earth.<br />Our foot's in the door.]]>
+            </itunes:summary>
             <description>
-    <![CDATA[In this episode, Abby interviews radical mycologist James Oliver about mushrooms and his work healing post-fire sites with mycelium at The Center for Applied Ecological Remediation (CAER). Together, they present the poem "Mushrooms," by Sylvia Plath.<br />Recitation begins at 47:22<br /><br />Mushrooms<br />Sylvia Plath<br /><br />Overnight, very<br />Whitely, discreetly,<br />Very quietly<br />Our toes, our noses<br />Take hold on the loam,<br />Acquire the air.<br />Nobody sees us,<br />Stops us, betrays us;<br />The small grains make room.<br />Soft fists insist on<br />Heaving the needles,<br />The leafy bedding,<br />Even the paving.<br />Our hammers, our rams,<br />Earless and eyeless,<br />Perfectly voiceless,<br />Widen the crannies,<br />Shoulder through holes. We<br />Diet on water,<br />On crumbs of shadow,<br />Bland-mannered, asking<br />Little or nothing.<br />So many of us!<br />So many of us!<br />We are shelves, we are<br />Tables, we are meek,<br />We are edible,<br />Nudgers and shovers<br />In spite of ourselves.<br />Our kind multiplies:<br />We shall by morning<br />Inherit the earth.<br />Our foot's in the door.]]>
-  </description>
+                <![CDATA[In this episode, Abby interviews radical mycologist James Oliver about mushrooms and his work healing post-fire sites with mycelium at The Center for Applied Ecological Remediation (CAER). Together, they present the poem "Mushrooms," by Sylvia Plath.<br />Recitation begins at 47:22<br /><br />Mushrooms<br />Sylvia Plath<br /><br />Overnight, very<br />Whitely, discreetly,<br />Very quietly<br />Our toes, our noses<br />Take hold on the loam,<br />Acquire the air.<br />Nobody sees us,<br />Stops us, betrays us;<br />The small grains make room.<br />Soft fists insist on<br />Heaving the needles,<br />The leafy bedding,<br />Even the paving.<br />Our hammers, our rams,<br />Earless and eyeless,<br />Perfectly voiceless,<br />Widen the crannies,<br />Shoulder through holes. We<br />Diet on water,<br />On crumbs of shadow,<br />Bland-mannered, asking<br />Little or nothing.<br />So many of us!<br />So many of us!<br />We are shelves, we are<br />Tables, we are meek,<br />We are edible,<br />Nudgers and shovers<br />In spite of ourselves.<br />Our kind multiplies:<br />We shall by morning<br />Inherit the earth.<br />Our foot's in the door.]]>
+            </description>
             <enclosure
                 url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP14-A_Lovely_Wallpaper-James_Oliver.mp3"
                 length="57935417" type="audio/mpeg" />
@@ -323,12 +322,16 @@
             <title>Ghost Story from William Maxwell’s "The Château" — with Christine Schutt</title>
             <itunes:author>Abby Walthausen</itunes:author>
             <itunes:subtitle>Special October episode (guest reader: Christine Schutt)</itunes:subtitle>
-            <itunes:summary><![CDATA[This special October episode features a ghost story from William Maxwell’s novel <i>The Château</i>. Set in a harsh, old-fashioned classroom where children recite their lessons, its haunting force is a shapeshifting memory double—squarely in the “A Lovely Wallpaper” wheelhouse. Guest reader is fiction writer Christine Schutt, author of <i>Pure Hollywood</i>, <i>Prosperous Friends</i>, <i>All Souls</i>, and more. No poem, no interview—just understated, literary thrills and chills.]]></itunes:summary>
-            <description><![CDATA[This special October episode features a ghost story from William Maxwell’s novel <i>The Château</i>. It’s set in a harsh, old-fashioned classroom where kids recite their lessons, and its haunting force is a shapeshifting memory double—very much in our “A Lovely Wallpaper” wheelhouse. 
+            <itunes:summary>
+                <![CDATA[This special October episode features a ghost story from William Maxwell’s novel <i>The Château</i>. Set in a harsh, old-fashioned classroom where children recite their lessons, its haunting force is a shapeshifting memory double—squarely in the “A Lovely Wallpaper” wheelhouse. Guest reader is fiction writer Christine Schutt, author of <i>Pure Hollywood</i>, <i>Prosperous Friends</i>, <i>All Souls</i>, and more. No poem, no interview—just understated, literary thrills and chills.]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[This special October episode features a ghost story from William Maxwell’s novel <i>The Château</i>. It’s set in a harsh, old-fashioned classroom where kids recite their lessons, and its haunting force is a shapeshifting memory double—very much in our “A Lovely Wallpaper” wheelhouse. 
           
           Guest reader: Christine Schutt, author of <i>Pure Hollywood</i>, <i>Prosperous Friends</i>, <i>All Souls</i>, and several more.
           
-          No poem, no interview this time—just understated, literary thrills and chills!]]></description>
+          No poem, no interview this time—just understated, literary thrills and chills!]]>
+            </description>
             <enclosure
                 url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP16-A_Lovely_Wallpaper-Christine_Schutt.mp3"
                 length="18484693" type="audio/mpeg" />
@@ -360,24 +363,81 @@
             <title>Episode 18: "A Nocturnal upon St. Lucy's Day" with Robert Harrison</title>
             <itunes:author>Abby Walthausen</itunes:author>
             <itunes:summary>
-              <![CDATA[
+                <![CDATA[
           In this episode, Abby interviews Robert Harrison, professor of Italian and French Literature at Stanford University, about darkness, light, the winter solstice, and his long running radio program "Entitled Opinions (about Life and Literature)." Together they present "A Nocturnal upon St. Lucys' Day" by John Donne.<br />
           Recitation begins at 36:21.
               ]]>
             </itunes:summary>
             <description>
-              <![CDATA[
+                <![CDATA[
           In this episode, Abby interviews Robert Harrison, professor of Italian and French Literature at Stanford University, about darkness, light, the winter solstice, and his long running radio program "Entitled Opinions (about Life and Literature)." Together they present "A Nocturnal upon St. Lucys' Day" by John Donne.<br />
           Recitation begins at 36:21.
               ]]>
             </description>
             <enclosure
                 url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP18-A_Lovely_Wallpaper-Robert_Harrison.mp3"
-                length="75267724"
-                type="audio/mpeg" />
+                length="75267724" type="audio/mpeg" />
             <guid>ALWP-EP018</guid>
             <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
             <itunes:duration>00:52:14</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title>Episode 19: "The Worth of Bread" with Andrew Seguin</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Andrew Seguin</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[
+          In this episode, Abby interviews Andrew Seguin, poet and translator, about his books <i>The Room in Which I Work</i>, a poetic exploration of the early photographer Nicéphore Niépce, and <i>Earthly</i>, his new selected translations of French poet Jean Follain. Together, they present “The Worth of Bread” by Jean Follain.<br />
+          Recitation begins at 42:02.<br /><br />
+          
+          The Worth of Bread<br />
+          Jean Follain<br /><br />
+          
+          Listening with his hands on the table<br />
+          where the insects crawl<br />
+          someone sees time wince<br />
+          the russet plain spreads wide<br />
+          with its dried-up river<br />
+          the pleasures of the flesh have gone by<br />
+          night falls fast<br />
+          bringing its probing lamps<br />
+          nothing remains<br />
+          but the worth of bread<br />
+          with white eyes<br />
+          from which a slice is taken<br />
+          in the dark.
+          ]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[
+          In this episode, Abby interviews Andrew Seguin, poet and translator, about his books <i>The Room in Which I Work</i>, a poetic exploration of the early photographer Nicéphore Niépce, and <i>Earthly</i>, his new selected translations of French poet Jean Follain. Together, they present “The Worth of Bread” by Jean Follain.<br />
+          Recitation begins at 42:02.<br /><br />
+          
+          The Worth of Bread<br />
+          Jean Follain<br /><br />
+          
+          Listening with his hands on the table<br />
+          where the insects crawl<br />
+          someone sees time wince<br />
+          the russet plain spreads wide<br />
+          with its dried-up river<br />
+          the pleasures of the flesh have gone by<br />
+          night falls fast<br />
+          bringing its probing lamps<br />
+          nothing remains<br />
+          but the worth of bread<br />
+          with white eyes<br />
+          from which a slice is taken<br />
+          in the dark.
+          ]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP19-A_Lovely_Wallpaper-Andrew-Seguin.mp3"
+                length="47528677" type="audio/mpeg" />
+            <guid>ALWP-EP019</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>00:49:30</itunes:duration>
             <itunes:explicit>No</itunes:explicit>
         </item>
 
