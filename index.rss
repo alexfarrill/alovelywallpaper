@@ -427,6 +427,41 @@
             <itunes:explicit>No</itunes:explicit>
         </item>
         <item>
+            <title>Lydia Davis's "Collaboration with Fly" with Nora Lange</title>
+            <itunes:author>Abby Walthausen</itunes:author>
+            <itunes:subtitle>Interview with Nora Lange</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[
+          In this episode, Abby interviews Nora Lange, novelist and short story writer, about her books <i>Us Fools</i> and <i>Day Care</i>. Together, they present “Collaboration with Fly” by Lydia Davis.<br />
+          Recitation begins at 60:32.<br /><br />
+          
+          Collaboration with Fly<br />
+          Lydia Davis<br /><br />
+          
+          I put the word on the page but he added the apostrophe.
+          ]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[
+          In this episode, Abby interviews Nora Lange, novelist and short story writer, about her books <i>Us Fools</i> and <i>Day Care</i>. Together, they present “Collaboration with Fly” by Lydia Davis.<br />
+          Recitation begins at 60:32.<br /><br />
+          
+          Collaboration with Fly<br />
+          Lydia Davis<br /><br />
+          
+          I put the word on the page but he added the apostrophe.
+          ]]>
+            </description>
+            <enclosure
+                url="https://alovelywallpaper.s3.us-west-2.amazonaws.com/episodes/EP20-A_Lovely_Wallpaper-Nora_Lange.mp3"
+                length="60407974" type="audio/mpeg" />
+            <guid>ALWP-EP020</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>01:02:55</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+
+        <item>
             <title>Jean Follain's "The Worth of Bread" with Andrew Seguin</title>
             <itunes:author>Abby Walthausen</itunes:author>
             <itunes:subtitle>Interview with Andrew Seguin</itunes:subtitle>
