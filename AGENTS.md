@@ -7,7 +7,9 @@
 - IAM credentials for S3 upload live in `.env.local` as `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`.
 - A local archive copy of every finalized episode file must be saved to `/Users/alexfarrill/Documents/podcastSource/Episode Masters`.
 - Use the Bun/TypeScript scripts in `scripts/` for episode planning, filename normalization, and S3 upload.
+- Use the filename script to generate episode filenames. Do not invent or hand-type filenames when a script can derive them.
 - Use `camelCase` for script filenames and similar code artifacts in this repository. Do not use `kebab-case` for new script files.
+- Do not use decimal seconds for audio duration. Duration values must be whole seconds only, and display values must be formatted from whole seconds.
 - Do not invent data. If required information is missing and that would make it impossible to complete the full task, stop and ask the user for the missing information.
 
 ## Expected Input
