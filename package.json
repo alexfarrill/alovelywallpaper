@@ -1,0 +1,10 @@
+{
+  "name": "alovelywallpaper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "episode:plan": "bun run scripts/episodePlan.ts",
+    "episode:normalize": "bun run scripts/normalizeEpisodeFile.ts",
+    "episode:upload": "bun run scripts/uploadEpisode.ts"
+  }
+}
