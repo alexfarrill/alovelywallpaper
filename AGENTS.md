@@ -55,6 +55,7 @@ I put the word on the page but he added the apostrophe.
 6. Show the user a reviewable summary before deployment.
    Make it easy for the user to see everything.
    Show the episode number, finalized filename, public URL, file size, duration, and the full `index.rss` change content.
+   Present the public URL as a separate clickable link in the confirmation summary.
 7. Ask for confirmation before deploying.
    Ask the user to confirm the changes before pushing.
    Wait for that confirmation before pushing.
