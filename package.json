@@ -5,6 +5,7 @@
   "scripts": {
     "episode:filename": "bun run scripts/buildEpisodeFilename.ts",
     "episode:plan": "bun run scripts/episodePlan.ts",
+    "episode:download-agentmail": "bun run scripts/downloadAgentMailAttachment.ts",
     "episode:normalize": "bun run scripts/normalizeEpisodeFile.ts",
     "episode:upload": "bun run scripts/uploadEpisode.ts"
   }
